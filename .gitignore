@@ -1,0 +1,27 @@
+# OSX
+.DS_Store
+
+# hide Intellij Project files
+.idea
+*.iml
+*.swp
+
+.sass-cache
+node_modules
+
+# Don't push the output of SASS compilation to source
+public/styles/
+
+# Don't push the output of the JS compilation to source
+test/bundle.js
+
+public/*
+
+npm-debug.log
+npm-debug.log.*
+
+notes.txt
+info.log
+
+src/assets/family-tree.GED
+src/assets/family-tree.json
