@@ -21,7 +21,6 @@
     "html-loader": "^0.4.5",
     "jasmine-expect": "^3.7.0",
     "jscs": "^3.0.7",
-    "json-loader": "^0.5.4",
     "lodash": "^4.17.4",
     "webpack": "^2.2.1"
   },
