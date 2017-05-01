@@ -1,8 +1,7 @@
 /* jshint node: true */
 
 var moduleLoaders = [
-        { test: /\._.html$/, loader: "html-loader" },
-        { test: /\.json$/, loader: "json" }
+        { test: /\._.html$/, loader: "html-loader" }
     ];
 
 module.exports = {

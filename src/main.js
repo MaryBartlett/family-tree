@@ -1,4 +1,5 @@
-module.exports = function () {
-    window.console.log("I am here");
+var familyTree = require('familyTree').logOutput();
 
+module.exports = {
+    familyTree: familyTree
 };

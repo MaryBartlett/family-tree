@@ -1,0 +1,554 @@
+{
+  "nodes": [
+    {
+      "pointer": "@I116@",
+      "tag": "INDI",
+      "data": "",
+      "tree": [
+        {
+          "pointer": "",
+          "tag": "NAME",
+          "data": "Father /B/",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "SEX",
+          "data": "M",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "BIRT",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "DATE",
+              "data": "01 JAN 2001",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "ADDR",
+          "data": "Street Name",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "Town",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "City POSTCODE England",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "PHON",
+              "data": "01234 567890",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "FAMS",
+          "data": "@F094@",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "FAMC",
+          "data": "@F095@",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "NOTE",
+          "data": "@NI116@",
+          "tree": []
+        }
+      ],
+      "id": "@I116@",
+      "name": "Father B"
+    },
+    {
+      "pointer": "@I224@",
+      "tag": "INDI",
+      "data": "",
+      "tree": [
+        {
+          "pointer": "",
+          "tag": "NAME",
+          "data": "Mother B",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "SEX",
+          "data": "F",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "BIRT",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "DATE",
+              "data": "02 JAN 2002",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "OCCU",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "PLAC",
+              "data": "Job",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "ADDR",
+          "data": "Street Name",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "Town",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "City POSTCODE England",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "PHON",
+              "data": "01234 567890",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "FAMS",
+          "data": "@F094@",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "FAMC",
+          "data": "@F079@",
+          "tree": []
+        }
+      ],
+      "id": "@I224@",
+      "name": "Mother B"
+    },
+
+    {
+      "pointer": "@I071@",
+      "tag": "INDI",
+      "data": "",
+      "tree": [
+        {
+          "pointer": "",
+          "tag": "NAME",
+          "data": "Older brother B",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "SEX",
+          "data": "M",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "BIRT",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "DATE",
+              "data": "03 MAR 2003",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "ADDR",
+          "data": "Street Name",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "Town",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "City POSTCODE England",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "PHON",
+              "data": "01234 567890",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "FAMC",
+          "data": "@F094@",
+          "tree": []
+        }
+      ],
+      "id": "@I071@",
+      "name": "Older brother B"
+    },
+    {
+      "pointer": "@I072@",
+      "tag": "INDI",
+      "data": "",
+      "tree": [
+        {
+          "pointer": "",
+          "tag": "NAME",
+          "data": "Middle brother B",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "SEX",
+          "data": "M",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "BIRT",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "DATE",
+              "data": "04 APR 2004",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "ADDR",
+          "data": "Street Name",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "Town",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "City POSTCODE England",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "PHON",
+              "data": "01234 567890",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "FAMS",
+          "data": "@F220@",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "FAMC",
+          "data": "@F094@",
+          "tree": []
+        }
+      ],
+      "id": "@I072@",
+      "name": "Middle brother B"
+    },
+    {
+      "pointer": "@I073@",
+      "tag": "INDI",
+      "data": "",
+      "tree": [
+        {
+          "pointer": "",
+          "tag": "NAME",
+          "data": "Daughter B",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "SEX",
+          "data": "F",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "BIRT",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "DATE",
+              "data": "05 MAY 2005",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "ADDR",
+          "data": "Street Name",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "Town",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "City POSTCODE England",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "CONT",
+              "data": "",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "PHON",
+              "data": "01234 567890",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "FAMC",
+          "data": "@F094@",
+          "tree": []
+        }
+      ],
+      "id": "@I073@",
+      "name": "Daughter B"
+    },
+    {
+      "pointer": "@F094@",
+      "tag": "FAM",
+      "data": "",
+      "tree": [
+        {
+          "pointer": "",
+          "tag": "HUSB",
+          "data": "@I116@",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "WIFE",
+          "data": "@I224@",
+          "tree": []
+        },
+        {
+          "pointer": "",
+          "tag": "CHIL",
+          "data": "@I071@",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "_FREL",
+              "data": "Natural",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "_MREL",
+              "data": "Natural",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "CHIL",
+          "data": "@I072@",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "_FREL",
+              "data": "Natural",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "_MREL",
+              "data": "Natural",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "CHIL",
+          "data": "@I073@",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "_FREL",
+              "data": "Natural",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "_MREL",
+              "data": "Natural",
+              "tree": []
+            }
+          ]
+        },
+        {
+          "pointer": "",
+          "tag": "MARR",
+          "data": "",
+          "tree": [
+            {
+              "pointer": "",
+              "tag": "DATE",
+              "data": "01 JAN 1990",
+              "tree": []
+            },
+            {
+              "pointer": "",
+              "tag": "PLAC",
+              "data": "A pretty church",
+              "tree": []
+            }
+          ]
+        }
+      ],
+      "id": "@F094@",
+      "name": "Family"
+    }
+  ]
+}

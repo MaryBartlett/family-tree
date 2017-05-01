@@ -45,11 +45,7 @@ module.exports = {
             'expect',
             'beforeEach',
             'afterEach',
-            'jasmine',
-            'spyOn',
-            'MRA',
-            'casper',
-            'phantom'
+            'console'
         ]
     }
 };
